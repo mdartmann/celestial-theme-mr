@@ -1,5 +1,8 @@
 # Celestial
-## VS Code theme for all the people who love to code in deep dark spaces, with customized colors.
+>VS Code theme for all the people who love to code in deep dark spaces, with customized colors.
+
+## Preview
+![Theme Preview](celestial-mr.png)
 
 ## Credits
 
