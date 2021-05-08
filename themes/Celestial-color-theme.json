@@ -101,7 +101,7 @@
 		"panelTitle.activeBorder": "#E95378",
 		"statusBar.background": "#0b0c0f",
 		"statusBar.foreground": "#D5D8DA80",
-		"statusBar.debuggingBackground": "#E07267",
+		"statusBar.debuggingBackground": "#cf8292",
 		"statusBar.debuggingForeground": "#06060C",
 		"statusBar.noFolderBackground": "#0b0c0f",
 		"statusBarItem.hoverBackground": "#2E303E",
