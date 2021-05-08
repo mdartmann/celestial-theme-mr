@@ -37,7 +37,6 @@
 		"list.errorForeground": "#F43E5CE6",
 		"list.warningForeground": "#27D797B3",
 		"activityBar.background": "#0E0F13",
-		"activityBar.dropBackground": "#6C6F9380",
 		"activityBar.foreground": "#D5D8DAB3",
 		"activityBarBadge.background": "#E95378",
 		"activityBarBadge.foreground": "#06060C",
@@ -180,7 +179,6 @@
 			"scope": "entity.name.tag",
 			"settings": {
 				"foreground": "#E95678E6",
-				"fontStyle": "normal"
 			}
 		},
 		{
@@ -419,7 +417,6 @@
 			"scope": "punctuation.definition.tag",
 			"settings": {
 				"foreground": "#E95678B3",
-				"fontStyle": "normal"
 			}
 		},
 		{
